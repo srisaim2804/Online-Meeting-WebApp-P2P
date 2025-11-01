@@ -181,6 +181,4 @@ Made with ❤️ by Team : Event Driven Engineers.
 Started with : 
 - 👨🏻‍🎓 Jabade Susheel Krishna : [Contact Me](https://github.com/JabadeSusheelKrishna)
 - 👩🏻‍🎓 Palle Sreeja : [Contact Me](https://github.com/SreejaP11)
-- 👨🏻‍🎓 Srisai Krishna Morampudi : [Contact Me](https://github.com/SrisaiKrishna-2022)
-- 👨🏻‍🎓 Venkata Vishnu Sai D : [Contact Me](https://github.com/vishnusaireddy502)
-- 👨🏻‍🎓 Ramandeep Singh : [Contact Me](https://github.com/theramandeep04)
+- 👨🏻‍🎓 Srisai Krishna Morampudi : [Contact Me](https://github.com/srisaim2804)
